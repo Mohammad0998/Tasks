@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+}
+.my-list {
+  border: 1px solid;
+  background-color: lightgrey;
+  border-radius: 5px;
+  padding-block: 7px;
+}
+
+.my-list li{
+    font-weight: bold;
+    color: green;
+  }
